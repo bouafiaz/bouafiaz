@@ -2,7 +2,7 @@
 
 <p align="center">Doctoral researcher exploring quantum information, quantum simulation, and the potential of quantum materials for quantum computing</p>
 
-<h2 align="center">Scientific computing</h2>
+<h2 align="center">Programming Languages</h2>
 
 <p align="center">
   <img alt="Wolfram Language" src="https://img.shields.io/badge/Wolfram Mathematica-DD1100?style=flat">
