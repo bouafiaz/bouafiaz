@@ -15,8 +15,8 @@
 <p align="center">
   <img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-6929C4?style=flat&amp;logo=qiskit&amp;logoColor=white">
   <img alt="Cirq" src="https://img.shields.io/badge/Cirq-1A73E8?style=flat&amp;logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAMAAABMOI%2FcAAAAOVBMVEX%2F%2F%2F%2F8kRP%2BgQg8Za04ZLA3ZLE5ZK%2F%2FgQhaa5Q2ZLH9ggrEeTpbdJj7wCz6wS36wC37vyw3ZLD9nhkMZhx3AAAAAXRSTlMAQObYZgAAALZJREFUKM%2B9UssShCAMa2t5KOJj%2F%2F9jN1ZB3NHZy872ApOUUBKIvhYLU6fq%2FAcuIQTh2Kv2LTwAHsBJGp2qVhXrRmFlAuHGogI45%2BnYxv2MtfEMnG2ETS9u9xzteWl0BxMyeL5MIrZCJfPNw6Z7mAg4ywMR%2FkGE3xHCrSVHVjtxmoikXLdbtUkV2%2F2KMDznYnS1eNU1JnQ1EaQF1Cv6uDTh2B%2BxGPM8XcOpwaPSdWz7KsQP4Zz1Bt4pCA2EVYePAAAAAElFTkSuQmCC">
-  <img alt="OpenQuantumSystems.jl" src="https://img.shields.io/badge/OpenQuantumSystems.jl-389826?style=flat&amp;logo=julia&amp;logoColor=white">
   <img alt="Wolfram Mathematica" src="https://img.shields.io/badge/Wolfram%20Mathematica-B22222?style=flat&amp;logo=wolframmathematica&amp;logoColor=white">
+  <img alt="OpenQuantumSystems.jl" src="https://img.shields.io/badge/OpenQuantumSystems.jl-389826?style=flat&amp;logo=julia&amp;logoColor=white">
 </p>
 
 <h2 align="center">Research profiles</h2>
