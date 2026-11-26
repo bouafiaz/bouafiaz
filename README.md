@@ -5,8 +5,7 @@
 <h2 align="center">Programming Languages</h2>
 
 <p align="center">
-  <img alt="Wolfram Language" src="https://img.shields.io/badge/Wolfram Mathematica-DD1100?style=flat">
-  <img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-B22222?style=flat&amp;logo=wolframmathematica&amp;logoColor=white">
+  <img alt="Wolfram Mathematica" src="https://img.shields.io/badge/Wolfram%20Mathematica-B22222?style=flat&amp;logo=wolframmathematica&amp;logoColor=white">
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat&amp;logo=latex&amp;logoColor=white">
 </p>
 
