@@ -5,8 +5,9 @@
 <h2 align="center">Programming Languages</h2>
 
 <p align="center">
-  <img alt="Wolfram Mathematica" src="https://img.shields.io/badge/Wolfram%20Mathematica-B22222?style=flat&amp;logo=wolframmathematica&amp;logoColor=white">
-  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat&amp;logo=latex&amp;logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white">
+  <img alt="Julia" src="https://img.shields.io/badge/Julia-9558B2?style=flat&amp;logo=julia&amp;logoColor=white">
 </p>
 
 <h2 align="center">Quantum Computing &amp; Quantum Simulation</h2>
@@ -14,6 +15,7 @@
 <p align="center">
   <img alt="Quantum correlations" src="https://img.shields.io/badge/Quantum_correlations-54429A?style=flat">
   <img alt="Open quantum systems" src="https://img.shields.io/badge/Open_quantum_systems-236478?style=flat">
+  <img alt="Wolfram Mathematica" src="https://img.shields.io/badge/Wolfram%20Mathematica-B22222?style=flat&amp;logo=wolframmathematica&amp;logoColor=white">
   <img alt="Hubbard model" src="https://img.shields.io/badge/Hubbard_model-375A7F?style=flat">
 </p>
 
