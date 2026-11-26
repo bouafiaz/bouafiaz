@@ -10,7 +10,7 @@
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat&amp;logo=latex&amp;logoColor=white">
 </p>
 
-<h2 align="center">Quantum information &amp; simulation</h2>
+<h2 align="center">Quantum Computing &amp; Quantum Simulation &amp</h2>
 
 <p align="center">
   <img alt="Quantum correlations" src="https://img.shields.io/badge/Quantum_correlations-54429A?style=flat">
