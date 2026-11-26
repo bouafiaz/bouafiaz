@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zakaria Bouafia 👋</h1>
+<h1 align="center">Hi, I’m Zakaria Bouafia 👋</h1>
 
 <p align="center">Young researcher exploring quantum information, quantum computing, quantum simulation, and the potential of quantum materials for quantum computing</p>
 
