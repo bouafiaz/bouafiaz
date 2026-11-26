@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I’m Zakaria Bouafia 👋</h1>
 
-<p align="center">PhD researcher in quantum information at Hassan II University of Casablanca 🇲🇦</p>
-
-I study how temperature, scattering, and decoherence affect entanglement and other quantum correlations in graphene. In my thesis, I model the sublattice and valley degrees of freedom as two qubits and calculate which correlations survive as the system heats up.
+<p align="center">PhD researcher in quantum information and quantum computing at Hassan II University of Casablanca 🇲🇦</p>
 
 <h2 align="center">Scientific computing</h2>
 
 <p align="center">
-  <img alt="Wolfram Language" src="https://img.shields.io/badge/Wolfram_Language-DD1100?style=flat">
+  <img alt="Wolfram Language" src="https://img.shields.io/badge/Wolfram Mathematica-DD1100?style=flat">
   <img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-B22222?style=flat&amp;logo=wolframmathematica&amp;logoColor=white">
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat&amp;logo=latex&amp;logoColor=white">
 </p>
