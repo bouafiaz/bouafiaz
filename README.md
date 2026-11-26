@@ -13,10 +13,10 @@
 <h2 align="center">Quantum Computing &amp; Quantum Simulation</h2>
 
 <p align="center">
-  <img alt="Quantum correlations" src="https://img.shields.io/badge/Quantum_correlations-54429A?style=flat">
-  <img alt="Open quantum systems" src="https://img.shields.io/badge/Open_quantum_systems-236478?style=flat">
+  <img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-6929C4?style=flat&amp;logo=qiskit&amp;logoColor=white">
+  <img alt="Cirq" src="https://img.shields.io/badge/Cirq-1A73E8?style=flat">
+  <img alt="OpenQuantumSystems.jl" src="https://img.shields.io/badge/OpenQuantumSystems.jl-389826?style=flat&amp;logo=julia&amp;logoColor=white">
   <img alt="Wolfram Mathematica" src="https://img.shields.io/badge/Wolfram%20Mathematica-B22222?style=flat&amp;logo=wolframmathematica&amp;logoColor=white">
-  <img alt="Hubbard model" src="https://img.shields.io/badge/Hubbard_model-375A7F?style=flat">
 </p>
 
 <h2 align="center">Research profiles</h2>
