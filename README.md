@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Zakaria Bouafia 👋</h1>
 
-<p align="center">Young researcher in quantum information, quantum simulation, and quantum computing at Hassan II University of Casablanca 🇲🇦</p>
+<p align="center">Doctoral researcher at Hassan II University of Casablanca, with a focus on quantum information, quantum simulation, and the potential of quantum materials for quantum computing</p>
 
 <h2 align="center">Scientific computing</h2>
 
